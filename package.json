@@ -1,0 +1,24 @@
+{
+  "name": "assignmentacelucid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riteshkumar1997/Acelucid-project_assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riteshkumar1997/Acelucid-project_assignment/issues"
+  },
+  "homepage": "https://github.com/riteshkumar1997/Acelucid-project_assignment#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
